@@ -13,6 +13,7 @@ mvn package to create the jar file.
 run the jar file using method above. 
 
 Input format: 
+...
 Connection: NUE-FRA-43, NUE-AMS-67, FRA-AMS-17, FRA-LHR-27, LHR-NUE-23
 #1: What is the price of the connection NUE-FRA-LHR?
 #2: What is the price of the connection NUE-AMS-LHR?
@@ -23,7 +24,7 @@ Connection: NUE-FRA-43, NUE-AMS-67, FRA-AMS-17, FRA-LHR-27, LHR-NUE-23
 #7: How many different connections with maximum 3 stops exists between NUE and FRA?
 #8: How many different connections with exactly 1 stop exists between LHR and AMS?
 #9: Find all connections from NUE to LHR below 170 Euros!
-
+...
 
 Output Format: 
 #1: 70
