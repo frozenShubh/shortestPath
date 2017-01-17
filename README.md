@@ -8,8 +8,10 @@ java -jar app.jar input.txt or cat input.txt | java -jar app.jar
 both input file or stdin are acceptable arguments. 
 
 To run, just check out the repo and run : 
-
-mvn package to create the jar file. 
+```
+mvn package 
+```
+to create the jar file. 
 
 run the jar file using method above. 
 
