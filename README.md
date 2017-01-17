@@ -2,8 +2,9 @@ Application that implements the shortest path algorithm for a graph of airports
 with costs as the edges. 
 
 Can be run in the following format : 
+```
 java -jar app.jar input.txt or cat input.txt | java -jar app.jar
-
+```
 both input file or stdin are acceptable arguments. 
 
 To run, just check out the repo and run : 
